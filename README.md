@@ -20,8 +20,8 @@ Help Chacka pedal his way up tricky slopes, maintain balance, and race against t
 
 | Action | Key |
 |:-------|:----|
-| Accelerate / Pedal | `Right Arrow` |
-| Brake / Reverse | `Left Arrow` |
+| Accelerate / Pedal | `Up Arrow` |
+| Brake / Reverse | `Down Arrow` |
 | Restart Level | `R` |
 | Quit Game | `Esc` |
 
