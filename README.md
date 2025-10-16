@@ -4,7 +4,7 @@ https://itch.io/jam/daydream-global/rate/3950789 --play the game here by clickin
 **Chacka Ka Cycle** is a fun and challenging *uphill racing game* built in **GDevelop 5**.  
 Help Chacka pedal his way up tricky slopes, maintain balance, and race against time to reach the finish line!
 
-
+Credit: I have used template and assets from gdevelop 5 engine and made some changes.
 
 ---
 
